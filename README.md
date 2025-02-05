@@ -12,11 +12,10 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 
 ## Experience
 
-### Sight & Sound
+### Sight & Sound - Branson Missouri / Lancaster Pennsylvania 
 
 Information Technology Operations Supervisor
 May 2023 - Present 
-Branson, Missouri, United States
 - Create, manage, and maintain a comprehensive technology budget including capital and operational expenses (hardware, software, cloud, labor, etc.).
 - Provide company-wide training in technical areas, as well as representing the department to leadership and outside vendors. 
 - Coach, develop, and oversee team in areas of personal responsibility and accountability, instilling a passion for customer service and maintaining focus against technical goals. 
@@ -27,7 +26,6 @@ Branson, Missouri, United States
 
 System Administrator
 June 2018 - May 2023 
-Branson, Missouri, United States
 - Maintain, monitor and troubleshoot network-based services such as file, identity (Active-Directory, Entra ID), domain (DNS) and print management servers.
 - Administer & License Microsoft 365 Products for a multi-campus organization with 1000+ employees. (Exchange, Teams, SharePoint, Office, Windows Enterprise)
 - Deployed a multi-campus Microsoft Teams based phone system including conference rooms.
@@ -43,52 +41,45 @@ Leadership Team)
 - Install, deploy, and maintain end-to-end IP-based security surveillance system with over 100 cameras and 2 years of recording footage. 
 - Experience performing various hardware & electronic repairs on laptop & desktop workstations. (Dell, HP, Apple)
 
-## Paragon 360
+## Paragon 360 - Springfield Missouri
 Audio-Visual Installer
 2018
-Springfield, Missouri, United States
 
-## Southwest Audio Visual
+## Southwest Audio Visual - Springfield Missouri
 Live Event Technician
-2018 - 2018 (less than a year)
-Springfield, Missouri, United States
+2018
 
-## Museum of the Bible
+## Museum of the Bible - Washington D.C.
 Audio Visual Engineer
-July 2017 - November 2017 (5 months)
-Washington, District of Columbia, United States
+July 2017 - November 2017 
 - Served organization as the technical liaison between leadership (owners & stakeholders) and contractors (design & construction) during the AudioVisual installation phase of a $500,000,000 (1st ever billion dollar startup) construction project; building of one of the most technically advanced museums in the world. 
 - This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
 
-## Sight & Sound
+## Sight & Sound - Branson Missouri / Lancaster Pennsylvania 
 Automation & Electronics Technician
-November 2015 - July 2017 (1 year 9 months)
-Branson, Missouri, United States
+November 2015 - July 2017 
 - Provided Audio-Visual support, operation, training and leadership (Sound, Lighting, Projection, Media Servers, and Special Effects) for a 2000+ seat theatre possessing the second largest stage in North America, reaching an audience size of 650,000 people annually. 
 - Programmed, maintained, analyzed, and resolved troubleshooting requests through a ticketing system. (Atlassian Jira, Trello & JitBit)
 - Designed and programmed user interfaces for automation systems and managed PC/Mac machine remotely throughout the facility. 
 - Handled installation and upkeep of computer hardware, software, media servers and audio-visual equipment. 
 - Edited Audio & Video for 3D Projection & LED Video Walls / Sign Boards.
 
-## Carnival UK (P&O Cruises & Cunard)
+## Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
 Assistant Production Manager
 January 2014 - November 2015
-Southampton, England, United Kingdom
-Royal Caribbean Group
-Apprentice Audio-Visual Technician
-December 2012 - December 2013 (1 year 1 month)
-Miami, Florida, United States
 
-## North Point Church 
+## Royal Caribbean Group (Celebrity Cruises) - Miami Florida
+Apprentice Audio-Visual Technician
+December 2012 - December 2013 
+
+## North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
 Intern Media Director
-May 2009 - December 2012 (3 years 8 months)
-Springfield, Missouri, United States
+May 2009 - December 2012 
 - Coordinated and organized a scheduling system & training for multi-site (3 locations) church's Audio-Visual 60+ volunteers across 12 weekly events and services.
 
-## Southwest Baptist University
+## Southwest Baptist University - Bolivar Missouri
 Assistant Technical Director
-September 2008 - December 2012 (4 years 4 months)
-Bolivar, Missouri, United States
+September 2008 - December 2012 
 - Received professional training directly from lighting (ETC EOS Family) and audio (Allen & Health / Community) systems for 1,300 seat campus auditorium. 
 - Assisted with $1.5 million renovation (new seating, new projection / LED screen system, media system, audio, lighting, networking). 
 - Provided frequent training and documentation to staff of work-study students on annual basis. 
@@ -102,7 +93,6 @@ Bolivar, Missouri, United States
 ## Education
 
 - Southwest Baptist University
-Bachelor of Arts - BA, Communication, General · (August 2008 - December 2012)
+Bachelor of Arts - BA, Communication, General · December 2012
 
-- Richmond R-XVI High-School
-(May 2008)
+- Richmond R-XVI High-School · May 2008
