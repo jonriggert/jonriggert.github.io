@@ -13,13 +13,17 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 ## Certifications
 
 CompTIA A+ and Network+ Certified
+
 Microsoft Azure (AZ-900) and 365 (MS-900) Certified
+
 Google IT Support Professional Certified
 
 ## Currently Learning
 
 PMI - Project Management Professional Certification
+
 AWS - Cloud Practitioner Certification
+
 LIP - Linux Essentials Certification
 
 ## Experience
