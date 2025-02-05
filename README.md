@@ -15,7 +15,7 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 ### Sight & Sound - Branson Missouri / Lancaster Pennsylvania 
 
 Information Technology Operations Supervisor
-May 2023 - Present 
+(May 2023 - Present)
 - Create, manage, and maintain a comprehensive technology budget including capital and operational expenses (hardware, software, cloud, labor, etc.).
 - Provide company-wide training in technical areas, as well as representing the department to leadership and outside vendors. 
 - Coach, develop, and oversee team in areas of personal responsibility and accountability, instilling a passion for customer service and maintaining focus against technical goals. 
@@ -25,7 +25,7 @@ May 2023 - Present
 - Mitigate potential security risks and technical outages to provide high-availability resources to our employees and customers.
 
 System Administrator
-June 2018 - May 2023 
+(June 2018 - May 2023)
 - Maintain, monitor and troubleshoot network-based services such as file, identity (Active-Directory, Entra ID), domain (DNS) and print management servers.
 - Administer & License Microsoft 365 Products for a multi-campus organization with 1000+ employees. (Exchange, Teams, SharePoint, Office, Windows Enterprise)
 - Deployed a multi-campus Microsoft Teams based phone system including conference rooms.
@@ -43,21 +43,21 @@ Leadership Team)
 
 ## Paragon 360 - Springfield Missouri
 Audio-Visual Installer
-2018
+(2018)
 
 ## Southwest Audio Visual - Springfield Missouri
 Live Event Technician
-2018
+(2018)
 
 ## Museum of the Bible - Washington D.C.
 Audio Visual Engineer
-July 2017 - November 2017 
-- Served organization as the technical liaison between leadership (owners & stakeholders) and contractors (design & construction) during the AudioVisual installation phase of a $500,000,000 (1st ever billion dollar startup) construction project; building of one of the most technically advanced museums in the world. 
+(July 2017 - November 2017) 
+- Served organization as the technical liaison between leadership (owners & stakeholders) and contractors (design & construction) during the Audio-Visual installation phase of a $500,000,000 (1st ever billion dollar startup) construction project; building of one of the most technically advanced museums in the world. 
 - This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
 
 ## Sight & Sound - Branson Missouri / Lancaster Pennsylvania 
 Automation & Electronics Technician
-November 2015 - July 2017 
+(November 2015 - July 2017)
 - Provided Audio-Visual support, operation, training and leadership (Sound, Lighting, Projection, Media Servers, and Special Effects) for a 2000+ seat theatre possessing the second largest stage in North America, reaching an audience size of 650,000 people annually. 
 - Programmed, maintained, analyzed, and resolved troubleshooting requests through a ticketing system. (Atlassian Jira, Trello & JitBit)
 - Designed and programmed user interfaces for automation systems and managed PC/Mac machine remotely throughout the facility. 
@@ -66,20 +66,20 @@ November 2015 - July 2017
 
 ## Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
 Assistant Production Manager
-January 2014 - November 2015
+(January 2014 - November 2015)
 
 ## Royal Caribbean Group (Celebrity Cruises) - Miami Florida
 Apprentice Audio-Visual Technician
-December 2012 - December 2013 
+(December 2012 - December 2013)
 
 ## North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
 Intern Media Director
-May 2009 - December 2012 
+(May 2009 - December 2012)
 - Coordinated and organized a scheduling system & training for multi-site (3 locations) church's Audio-Visual 60+ volunteers across 12 weekly events and services.
 
 ## Southwest Baptist University - Bolivar Missouri
 Assistant Technical Director
-September 2008 - December 2012 
+(September 2008 - December 2012)
 - Received professional training directly from lighting (ETC EOS Family) and audio (Allen & Health / Community) systems for 1,300 seat campus auditorium. 
 - Assisted with $1.5 million renovation (new seating, new projection / LED screen system, media system, audio, lighting, networking). 
 - Provided frequent training and documentation to staff of work-study students on annual basis. 
@@ -92,7 +92,6 @@ September 2008 - December 2012
 
 ## Education
 
-- Southwest Baptist University
-Bachelor of Arts - BA, Communication, General · December 2012
+- Southwest Baptist University B.A., Communications, General · December 2012
 
 - Richmond R-XVI High-School · May 2008
