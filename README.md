@@ -1,7 +1,3 @@
-# Husband | Dad | Bringing 15+ technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management.
-
----
-
 My care for people and passion toward action drives an intentionality that can enhance your organization's ability to tell it's unique story; without compromising quality nor integrity - maintaining priorities and most importantly, values.
 
 I've had the privilege of working 15+ years around the world learning and serving toward a common goal: personal and professional transformation - aligning people and processes in order to achieve a greater potential. Whether in the setting of a non-profit, small business, or corporate enterprise.. let me be a part of your story.
