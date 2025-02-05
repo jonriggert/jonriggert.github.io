@@ -22,7 +22,7 @@ May 2023 - Present
 - Researching, deploying, and maintaining excellent SLAs (Service Level Agreements) toward project planning, change management, employee scheduling, and service desk processes. 
 - Implement project management methodologies and tools to improve productivity flow (agile, service management, kanban, gannt chart, SharePoint). 
 - Cultivating a culture of trust by leading from a posture of calmness, consistency, and the pursuit of clarity. 
-- Mitigate potential security risks and technical outages to provide highavailability resources to our employees and customers.
+- Mitigate potential security risks and technical outages to provide high-availability resources to our employees and customers.
 
 System Administrator
 June 2018 - May 2023 
