@@ -8,6 +8,8 @@ At the end of the day, I strive to be known as a servant leader who is grounded,
 
 ---
 
+![Certification Badges](/assets/Badges.png)
+
 ## Experience
 
 ### Sight & Sound
