@@ -37,7 +37,7 @@ June 2018 - May 2023
 - Contributed to a department wide migration of an Agile based SLA ticketing workflow utilizing kanban boards, gannt charting system, and sharedcalendars. (Help Desk, DevOps, Developers, Project Managers, and
 Leadership Team)
 - Experience working with Large-Scale video production crews / broadcasting trucks.
-- Provided expert level consultations on media services for content management (CMS) and live-streaming re-broadcasts (RTMP servers) on payper-view live streaming platform which reaches over 10,000+ subscribers. 
+- Provided expert level consultations on media services for content management (CMS) and live-streaming re-broadcasts (RTMP servers) on pay-per-view live streaming platform which reaches over 10,000+ subscribers. 
 - Install, deploy, and maintain end-to-end IP-based security surveillance system with over 100 cameras and 2 years of recording footage. 
 - Experience performing various hardware & electronic repairs on laptop & desktop workstations. (Dell, HP, Apple)
 
