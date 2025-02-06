@@ -24,7 +24,7 @@ PMI - Project Management Professional Certification
 
 AWS - Cloud Practitioner Certification
 
-LIP - Linux Essentials Certification
+LPI - Linux Essentials Certification
 
 ## Experience
 
