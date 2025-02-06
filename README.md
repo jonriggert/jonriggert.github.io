@@ -108,6 +108,6 @@ Assistant Technical Director
 
 ## Education
 
-- Southwest Baptist University B.A., Communications, General · December 2012
+- Southwest Baptist University B.A. · Communications (with focus on Speech, Education, and Technology) · December 2012
 
 - Richmond R-XVI High-School · May 2008
