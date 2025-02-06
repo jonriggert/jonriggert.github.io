@@ -28,7 +28,7 @@ LPI - Linux Essentials Certification
 
 ## Experience
 
-### Sight & Sound - Branson Missouri / Lancaster Pennsylvania 
+### Sight & Sound Ministries Inc. - Branson Missouri / Lancaster Pennsylvania 
 
 Information Technology Operations Supervisor
 (May 2023 - Present)
@@ -57,21 +57,21 @@ Leadership Team)
 - Install, deploy, and maintain end-to-end IP-based security surveillance system with over 100 cameras and 2 years of recording footage. 
 - Experience performing various hardware & electronic repairs on laptop & desktop workstations. (Dell, HP, Apple)
 
-## Paragon 360 - Springfield Missouri
+### Paragon 360 - Springfield Missouri
 Audio-Visual Installer
 (2018)
 
-## Southwest Audio Visual - Springfield Missouri
+### Southwest Audio Visual - Springfield Missouri
 Live Event Technician
 (2018)
 
-## Museum of the Bible - Washington D.C.
+### Museum of the Bible - Washington D.C.
 Audio Visual Engineer
 (July 2017 - November 2017) 
 - Served organization as the technical liaison between leadership (owners & stakeholders) and contractors (design & construction) during the Audio-Visual installation phase of a $500,000,000 (1st ever billion dollar startup) construction project; building of one of the most technically advanced museums in the world. 
 - This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
 
-## Sight & Sound - Branson Missouri / Lancaster Pennsylvania 
+### Sight & Sound Theatres - Branson Missouri
 Automation & Electronics Technician
 (November 2015 - July 2017)
 - Provided Audio-Visual support, operation, training and leadership (Sound, Lighting, Projection, Media Servers, and Special Effects) for a 2000+ seat theatre possessing the second largest stage in North America, reaching an audience size of 650,000 people annually. 
@@ -80,20 +80,20 @@ Automation & Electronics Technician
 - Handled installation and upkeep of computer hardware, software, media servers and audio-visual equipment. 
 - Edited Audio & Video for 3D Projection & LED Video Walls / Sign Boards.
 
-## Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
+### Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
 Assistant Production Manager
 (January 2014 - November 2015)
 
-## Royal Caribbean Group (Celebrity Cruises) - Miami Florida
+### Royal Caribbean Group (Celebrity Cruises) - Miami Florida
 Apprentice Audio-Visual Technician
 (December 2012 - December 2013)
 
-## North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
+### North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
 Intern Media Director
 (May 2009 - December 2012)
 - Coordinated and organized a scheduling system & training for multi-site (3 locations) church's Audio-Visual 60+ volunteers across 12 weekly events and services.
 
-## Southwest Baptist University - Bolivar Missouri
+### Southwest Baptist University - Bolivar Missouri
 Assistant Technical Director
 (September 2008 - December 2012)
 - Received professional training directly from lighting (ETC EOS Family) and audio (Allen & Health / Community) systems for 1,300 seat campus auditorium. 
