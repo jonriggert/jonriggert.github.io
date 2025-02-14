@@ -81,7 +81,7 @@ Automation & Electronics Technician
 - Edited Audio & Video for 3D Projection & LED Video Walls / Sign Boards.
 
 ### Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
-Assistant Production Manager
+Assistant Production Manager (Lighting)
 (January 2014 - November 2015)
 
 ### Royal Caribbean Group (Celebrity Cruises) - Miami Florida
