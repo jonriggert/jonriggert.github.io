@@ -18,6 +18,14 @@ Microsoft Azure (AZ-900) and 365 (MS-900) Certified
 
 Google IT Support Professional Certified
 
+## Manufacturer Training
+
+USITT - Electrical Basics & Safety
+
+Vectorworks - LDI Spotlight Training
+
+Columbus McKinnon - Entertainment Technology Motor Mechanic
+
 ## Currently Learning
 
 PMI - Project Management Professional Certification
@@ -71,6 +79,26 @@ Audio Visual Engineer
 - Served organization as the technical liaison between leadership (owners & stakeholders) and contractors (design & construction) during the Audio-Visual installation phase of a $500,000,000 (1st ever billion dollar startup) construction project; building of one of the most technically advanced museums in the world. 
 - This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
 
+<figure>
+  <img src="assets/motb1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/motb2.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/motb3.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/motb4.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
 ### Sight & Sound Theatres - Branson Missouri
 Automation & Electronics Technician
 (November 2015 - July 2017)
@@ -80,9 +108,39 @@ Automation & Electronics Technician
 - Handled installation and upkeep of computer hardware, software, media servers and audio-visual equipment. 
 - Edited Audio & Video for 3D Projection & LED Video Walls / Sign Boards.
 
+<figure>
+  <img src="assets/ss1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/ss2.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/ss3.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
 ### Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
 Assistant Production Manager (Lighting)
 (January 2014 - November 2015)
+
+<figure>
+  <img src="assets/cruise1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/cruise2.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/cruise3.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
 
 ### Royal Caribbean Group (Celebrity Cruises) - Miami Florida
 Apprentice Audio-Visual Technician
@@ -92,6 +150,31 @@ Apprentice Audio-Visual Technician
 Intern Media Director
 (May 2009 - December 2012)
 - Coordinated and organized a scheduling system & training for multi-site (3 locations) church's Audio-Visual 60+ volunteers across 12 weekly events and services.
+
+<figure>
+  <img src="assets/npc1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/npc2.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/npc3.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/npc4.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/npc5.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
 
 ### Southwest Baptist University - Bolivar Missouri
 Assistant Technical Director
@@ -104,6 +187,11 @@ Assistant Technical Director
 - Provided assistance in installing and operating Audio-Visual equipment campus wide (Library, Other Performance Venues, Student Union, Basketball & Football Arena). 
 - This was in conjunction with my technical studies in the Theatre department.
 
+<figure>
+  <img src="assets/pike1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
 ---
 
 ## Education
@@ -111,3 +199,30 @@ Assistant Technical Director
 - Southwest Baptist University B.A. · Communications (with focus on Speech, Education, and Technology) · December 2012
 
 - Richmond R-XVI High-School · May 2008
+
+## Volunteering
+
+### Relevant Life Church - Grew to become Life.Church Campus - Springfield Missouri
+
+<figure>
+  <img src="assets/rlc1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/rlc2.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/rlc3.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/lc1.png" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+### Pregnancy Life Line - Branson West Missouri
+Board Member - AVIT Consultant
