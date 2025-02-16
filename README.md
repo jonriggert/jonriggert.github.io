@@ -20,11 +20,13 @@ Google IT Support Professional Certified
 
 ## Manufacturer Training
 
-USITT - Electrical Basics & Safety
+USITT - Electrical Basics & Safety Training
 
 Vectorworks - LDI Spotlight Training
 
-Columbus McKinnon - Entertainment Technology Motor Mechanic
+Columbus McKinnon - Entertainment Technology Motor Mechanic Training
+
+ETC - Eos Family Consoles Training
 
 ## Currently Learning
 
@@ -69,6 +71,11 @@ Leadership Team)
 Audio-Visual Installer
 (2018)
 
+<figure>
+  <img src="assets/fbcpc1.jpg" alt="FBC Plant City">
+  <figcaption>While working with Paragon 360, I was able to assist the team in installing an all new AVL system in this new 2000 seat facility. This included a dual-projection unit and LED lighting. </figcaption>
+</figure>
+
 ### Southwest Audio Visual - Springfield Missouri
 Live Event Technician
 (2018)
@@ -80,23 +87,28 @@ Audio Visual Engineer
 - This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
 
 <figure>
-  <img src="assets/motb1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/motb1.jpg" alt="Lobby LED Screen">
+  <figcaption>Install of the largest indoor LED screen for the main lobby of Museum of the Bible.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb2.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/motb2.jpg" alt="Heat Map 1">
+  <figcaption>Projection Mapping for Environmental Projection in main theatre at Museum of the Bible using VYV media server software.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb3.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/motb3.jpg" alt="Heat Map 2">
+  <figcaption>Projection Mapping for Environmental Projection in main theatre at Museum of the Bible using VYV media server software.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb4.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/motb4.jpg" alt="Projection Project Mockup">
+  <figcaption>Final mockup of projection mapping project.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/motb5.jpg" alt="Final Product Realized for Projection Mappting">
+  <figcaption>Final Product Realized using 18 Projectors operating on VYV media server controlled via Medialon control software. I was also responsible for the lighting system integration in this space controlled via GrandMA2.</figcaption>
 </figure>
 
 ### Sight & Sound Theatres - Branson Missouri
