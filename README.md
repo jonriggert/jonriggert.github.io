@@ -140,18 +140,18 @@ Assistant Production Manager (Lighting)
 (January 2014 - November 2015)
 
 <figure>
-  <img src="assets/cruise1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/cruise1.jpg" alt="Cunard Lights">
+  <figcaption>Cunard Annivaersary Light Show.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/cruise2.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/cruise2.jpg" alt="Carnival Theatre">
+  <figcaption>Lighting for music show on Carnival Cruise Ship.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/cruise3.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/cruise3.jpg" alt="Carnival Theatre">
+  <figcaption>Lighting for music show on Carnival Cruise Ship.</figcaption>
 </figure>
 
 ### Royal Caribbean Group (Celebrity Cruises) - Miami Florida
@@ -164,28 +164,28 @@ Intern Media Director
 - Coordinated and organized a scheduling system & training for multi-site (3 locations) church's Audio-Visual 60+ volunteers across 12 weekly events and services.
 
 <figure>
-  <img src="assets/npc1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/npc1.jpg" alt="North Point Church">
+  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/npc2.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/npc2.jpg" alt="North Point Church">
+  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/npc3.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/npc3.jpg" alt="North Point Church">
+  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/npc4.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/npc4.jpg" alt="North Point Church">
+  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/npc5.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/npc5.jpg" alt="North Point Church">
+  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
 </figure>
 
 ### Southwest Baptist University - Bolivar Missouri
@@ -200,8 +200,8 @@ Assistant Technical Director
 - This was in conjunction with my technical studies in the Theatre department.
 
 <figure>
-  <img src="assets/pike1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/pike1.jpg" alt="Pike Auditorium">
+  <figcaption>Lighting & Set Layout for CentriKid Camps - Pike Auditorium.</figcaption>
 </figure>
 
 ---
