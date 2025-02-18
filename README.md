@@ -174,7 +174,7 @@ Apprentice Audio-Visual Technician
 
 <figure>
   <img src="assets/rcl2.jpg" alt="Royal Caribbean Cruises">
-  <figcaption>Picture of maintaining the Robe LED lightign rig.</figcaption>
+  <figcaption>Picture of maintaining the Robe LED lighting rig.</figcaption>
 </figure>
 
 ### North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
