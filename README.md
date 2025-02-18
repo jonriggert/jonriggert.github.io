@@ -173,6 +173,11 @@ Assistant Production Manager (Lighting)
 Apprentice Audio-Visual Technician
 (December 2012 - December 2013)
 
+<figure>
+  <img src="assets/rcl1.jpg" alt="FBC Plant City">
+  <figcaption>While working with Paragon 360, I was able to assist the team in installing an all new AVL system in this new 2000 seat facility. This included a dual-projection unit and LED lighting. </figcaption>
+</figure>
+
 ### North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
 Intern Media Director
 (May 2009 - December 2012)
