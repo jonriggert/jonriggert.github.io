@@ -108,7 +108,7 @@ Audio Visual Engineer
 
 <figure>
   <img src="assets/motb5.jpg" alt="Final Product Realized for Projection Mappting">
-  <figcaption>Final Product Realized using 18 Projectors operating on VYV media server controlled via Medialon control software. I was also responsible for the lighting system integration in this space controlled via GrandMA2.</figcaption>
+  <figcaption>Final Product Realized using 18 Projectors operating on VYV media server controlled via Medialon control software. I was also responsible for the lighting system integration in this space controlled via GrandMA2 and ETC infrastructure.</figcaption>
 </figure>
 
 ### Sight & Sound Theatres - Branson Missouri
@@ -132,6 +132,21 @@ Automation & Electronics Technician
 
 <figure>
   <img src="assets/ss3.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/ss4.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/ss5.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/ss6.jpg" alt="Image description">
   <figcaption>This is the image caption.</figcaption>
 </figure>
 
@@ -214,7 +229,16 @@ Assistant Technical Director
 
 ## Volunteering
 
+### The Table Church - Washington D.C.
+Audio
+
+<figure>
+  <img src="assets/tc1.jpg" alt="Image description">
+  <figcaption>This is the image caption.</figcaption>
+</figure>
+
 ### Relevant Life Church - Grew to become Life.Church Campus - Springfield Missouri
+Lighting
 
 <figure>
   <img src="assets/rlc1.jpg" alt="Image description">
