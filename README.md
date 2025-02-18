@@ -121,23 +121,23 @@ Automation & Electronics Technician
 - Edited Audio & Video for 3D Projection & LED Video Walls / Sign Boards.
 
 <figure>
-  <img src="assets/ss1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/ss1.jpg" alt="Sight & Sound">
+  <figcaption>Upgraded projection stack for main projection screen (before and after) - lamp based to laser based.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/ss2.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/ss2.jpg" alt="Sight & Sound">
+  <figcaption>Behind the scenes.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/ss3.JPG" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/ss3.JPG" alt="Sight & Sound">
+  <figcaption>Finished project. Also responsible for programming media content using Coolux Media Servers.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/ss4.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <img src="assets/ss4.jpg" alt="Sight & Sound">
+  <figcaption>I also served as the Master Electrician for the Lighting Department - handing the networking and electrical for shows utilizing over 1200 lights (150 automated lights).</figcaption>
 </figure>
 
 ### Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
@@ -169,12 +169,12 @@ Apprentice Audio-Visual Technician
 
 <figure>
   <img src="assets/rcl1.jpg" alt="Royal Caribbean Cruises">
-  <figcaption></figcaption>
+  <figcaption>Lighting Programming, Maintenance, and Operation for Production Shows.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/rcl2.jpg" alt="Royal Caribbean Cruises">
-  <figcaption></figcaption>
+  <figcaption>Picture of maintaining the Robe LED lightign rig.</figcaption>
 </figure>
 
 ### North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
@@ -199,12 +199,12 @@ Intern Media Director
 
 <figure>
   <img src="assets/npc4.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
+  <figcaption>North Point Church - Lighting Design.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/npc5.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
+  <figcaption>North Point Church - Lighting Design.</figcaption>
 </figure>
 
 ### Southwest Baptist University - Bolivar Missouri
@@ -246,22 +246,22 @@ Lighting
 
 <figure>
   <img src="assets/rlc1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <figcaption>Programming Lighting Using ChamSYS System - Portable System</figcaption>
 </figure>
 
 <figure>
   <img src="assets/rlc2.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <figcaption>Setup in school gym weekly. Assisting & training technicians in being able to do this. </figcaption>
 </figure>
 
 <figure>
   <img src="assets/rlc3.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <figcaption>Lighting for Worship.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/lc1.png" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <figcaption>The success of this project led to church growth which ultimately landed a full Life.Church campus coming to Springfield Missouri. A lighting designer I trained from Relevant Life Church was able to land the weekly programming job at this campus!</figcaption>
 </figure>
 
 ### Pregnancy Life Line - Branson West Missouri
