@@ -149,7 +149,7 @@ Assistant Production Manager (Lighting)
   <figcaption>Cunard 175 Anniversary Light Show.</figcaption>
 </figure>
 <figure>
-  <img src="assets/cruise2.jpg" alt="Cunard Lights">
+  <img src="assets/cruise4.jpg" alt="Cunard Lights">
   <figcaption>Behind the Scenes of 175 Anniversary Light Show.</figcaption>
 </figure>
 
