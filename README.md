@@ -236,7 +236,7 @@ Assistant Technical Director
 ## Volunteering
 
 ### The Table Church - Washington D.C.
-Audio
+Audio Volunteer for Worship Team
 
 <figure>
   <img src="assets/tc1.jpg" alt="Image description">
@@ -244,16 +244,16 @@ Audio
 </figure>
 
 ### Relevant Life Church - Grew to become Life.Church Campus - Springfield Missouri
-Lighting
+Lighting Volunteer / Consultant for Worship Team
 
 <figure>
   <img src="assets/rlc1.jpg" alt="Image description">
-  <figcaption>Programming Lighting Using ChamSYS System - Portable System</figcaption>
+  <figcaption>Programming Lighting Using ChamSYS System & Portable Rig.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/rlc2.jpg" alt="Image description">
-  <figcaption>Setup in school gym weekly. Assisting & training technicians in being able to do this. </figcaption>
+  <figcaption>Setup in school gym weekly - Assisting & training technicians in being able to do this. </figcaption>
 </figure>
 
 <figure>
