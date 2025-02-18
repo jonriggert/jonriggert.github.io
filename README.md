@@ -89,28 +89,28 @@ Audio Visual Engineer
 - This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
 
 <figure>
-  <img src="assets/motb1.jpg" alt="Lobby LED Screen">
-  <figcaption>Install of the largest indoor LED screen for the main lobby of Museum of the Bible.</figcaption>
+  <img src="assets/motb1.jpg" alt="Museum of the Bible">
+  <figcaption>Install of the largest indoor celing mounted LED screen for the main lobby of Museum of the Bible.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb2.jpg" alt="Heat Map 1">
-  <figcaption>Projection Mapping for Environmental Projection in main theatre at Museum of the Bible using VYV media server software.</figcaption>
+  <img src="assets/motb2.jpg" alt="Museum of the Bible">
+  <figcaption>Heat Mapping for Environmental Projection in main theatre at Museum of the Bible using VYV media server software.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb3.jpg" alt="Heat Map 2">
-  <figcaption>Projection Mapping for Environmental Projection in main theatre at Museum of the Bible using VYV media server software.</figcaption>
+  <img src="assets/motb3.jpg" alt="Museum of the Bible">
+  <figcaption>Accoustic Mapping for Meyer Constellation Audio in main theatre at Museum of the Bible.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb4.jpg" alt="Projection Project Mockup">
+  <img src="assets/motb4.jpg" alt="Museum of the Bible">
   <figcaption>Final mockup of projection mapping project.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/motb5.jpg" alt="Final Product Realized for Projection Mappting">
-  <figcaption>Final Product Realized using 18 Projectors operating on VYV media server controlled via Medialon control software. I was also responsible for the lighting system integration in this space controlled via GrandMA2 and ETC infrastructure.</figcaption>
+  <img src="assets/motb5.jpg" alt="Museum of the Bible">
+  <figcaption>Final Product Realized using 18 Projectors operating on VYV media server controlled via Medialon control software. I was also responsible for the lighting system integration in this space controlled via GrandMA2, ETC dimming infrastructure, and Vectorworks Spotlight.</figcaption>
 </figure>
 
 ### Sight & Sound Theatres - Branson Missouri
@@ -129,7 +129,7 @@ Automation & Electronics Technician
 
 <figure>
   <img src="assets/ss2.jpg" alt="Sight & Sound">
-  <figcaption>Behind the scenes.</figcaption>
+  <figcaption>Behind the scenes - Two stacks of laser projectors on each side. Utilizing multiple media servers this created the brightness and redundancy needed for future productions that would rely heavily on mapped projection on multi-dimentional surfaces.</figcaption>
 </figure>
 
 <figure>
@@ -142,27 +142,32 @@ Automation & Electronics Technician
   <figcaption>I also served as the Master Electrician for the Lighting Department - handing the networking and electrical for shows utilizing over 1200 lights (150 automated lights).</figcaption>
 </figure>
 
+<figure>
+  <img src="assets/ss5.jpg" alt="Sight & Sound">
+  <figcaption>In addition, I took on the responsiblity of programming and running our fully automated flight system for performers duing our seasonal Christmas Show.</figcaption>
+</figure>
+
 ### Carnival UK (P&O Cruises & Cunard) - Southampton U.K.
 Assistant Production Manager (Lighting)
 (January 2014 - November 2015)
 
 <figure>
-  <img src="assets/cruise1.jpg" alt="Cunard Lights">
-  <figcaption>Cunard 175 Anniversary Light Show.</figcaption>
+  <img src="assets/cruise1.jpg" alt="Cunard">
+  <figcaption>Cunard 175 Anniversary Light Show in New York and Southampton UK.</figcaption>
 </figure>
 <figure>
-  <img src="assets/cruise4.jpg" alt="Cunard Lights">
-  <figcaption>Behind the Scenes of 175 Anniversary Light Show.</figcaption>
-</figure>
-
-<figure>
-  <img src="assets/cruise2.jpg" alt="Carnival Theatre">
-  <figcaption>Lighting for music show on Carnival Cruise Ship.</figcaption>
+  <img src="assets/cruise4.jpg" alt="Cunard">
+  <figcaption>Behind the Scenes of 175 Anniversary Light Show on mid-deck using Clay Paky Mythos lighting.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/cruise3.jpg" alt="Carnival Theatre">
-  <figcaption>Lighting for music show on Carnival Cruise Ship.</figcaption>
+  <img src="assets/cruise2.jpg" alt="Carnival UK">
+  <figcaption>Programming lights for music show on Carnival Cruise Ship.</figcaption>
+</figure>
+
+<figure>
+  <img src="assets/cruise3.jpg" alt="Carnival UK">
+  <figcaption>Running lights for music show on Carnival Cruise Ship.</figcaption>
 </figure>
 
 ### Royal Caribbean Group (Celebrity Cruises) - Miami Florida
@@ -171,7 +176,7 @@ Apprentice Audio-Visual Technician
 
 <figure>
   <img src="assets/rcl1.jpg" alt="Royal Caribbean Cruises">
-  <figcaption>Lighting Programming, Maintenance, and Operation for Production Shows.</figcaption>
+  <figcaption>Lighting Programming, Maintenance, and Operation for full broadway production shows and rotating musical guests.</figcaption>
 </figure>
 
 <figure>
@@ -186,27 +191,27 @@ Intern Media Director
 
 <figure>
   <img src="assets/npc1.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
+  <figcaption>North Point Church - full install and programming of AVL systems including Yamaha Audio Console, HOG Lighting Console, and Panasonic IMAG hardware.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/npc2.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
+  <figcaption>Serving as video director for 5 weekly services.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/npc3.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Install and Programming - AVL Systems.</figcaption>
+  <figcaption>Programming and running lighting system for over 10 Easter services across 3 locations and streamed online.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/npc4.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Lighting Design.</figcaption>
+  <figcaption>Lighting Design - 10,000+ attendance for Easter services.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/npc5.jpg" alt="North Point Church">
-  <figcaption>North Point Church - Lighting Design.</figcaption>
+  <figcaption>Lighting Install and Design.</figcaption>
 </figure>
 
 ### Southwest Baptist University - Bolivar Missouri
@@ -222,7 +227,7 @@ Assistant Technical Director
 
 <figure>
   <img src="assets/pike1.jpg" alt="Pike Auditorium">
-  <figcaption>Lighting & Set Layout for CentriKid Camps - Pike Auditorium.</figcaption>
+  <figcaption>Lighting & Set Layout for CentriKid Camps - Pike Auditorium at Southwest Baptist University.</figcaption>
 </figure>
 
 ---
@@ -239,7 +244,7 @@ Assistant Technical Director
 Audio Volunteer for Worship Team
 
 <figure>
-  <img src="assets/tc1.jpg" alt="Image description">
+  <img src="assets/tc1.jpg" alt="The Table Church">
   <figcaption>Running Audio for Multi-Site Church using QSYS and x32 Audio Consoles.</figcaption>
 </figure>
 
@@ -247,24 +252,26 @@ Audio Volunteer for Worship Team
 Lighting Volunteer / Consultant for Worship Team
 
 <figure>
-  <img src="assets/rlc1.jpg" alt="Image description">
+  <img src="assets/rlc1.jpg" alt="Relevant Life Church">
   <figcaption>Programming Lighting Using ChamSYS System & Portable Rig.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/rlc2.jpg" alt="Image description">
-  <figcaption>Setup in school gym weekly - Assisting & training technicians in being able to do this. </figcaption>
+  <img src="assets/rlc2.jpg" alt="Relevant Life Church">
+  <figcaption>Setup in school gym weekly - Assisting & training technicians in being able to do this autonomously.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/rlc3.jpg" alt="Image description">
-  <figcaption>Lighting for Worship.</figcaption>
+  <img src="assets/rlc3.jpg" alt="Relevant Life Church">
+  <figcaption>Lighting for worship service.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/lc1.png" alt="Image description">
-  <figcaption>The success of this project led to church growth which ultimately landed a full Life.Church campus coming to Springfield Missouri. A lighting designer I trained from Relevant Life Church was able to land the weekly programming job at this campus!</figcaption>
+  <img src="assets/lc1.png" alt="Life.Church Springfield">
+  <figcaption>The success of this project led to church growth which ultimately turned into a full Life.Church campus coming to Springfield. A lighting designer I trained from Relevant Life Church was able to land the weekly programming job at this campus and we collaborated weekly using Avolights console!</figcaption>
 </figure>
 
 ### Pregnancy Life Line - Branson West Missouri
 Board Member - AVIT Consultant
+
+#### Thank you for visiting my profile! I created this website using Git and GitHub pages. 
