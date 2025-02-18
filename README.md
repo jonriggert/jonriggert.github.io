@@ -60,7 +60,7 @@ System Administrator
 - Acquired knowledge of Cisco (Meraki) & VMware for administering HPE (Nimble) and Dell EMC Server Hardware. 
 - Image and Deploy Windows, Mac, and iOS software using modern means. (Microsoft Intune / Auto-Pilot)
 - Developed a company-wide workflow and training program for communicating how to best utilize internal HRIS systems. (Microsoft Single Sign-On & Multi-Factor Authentication, UKG, Teams, Ect.)
-- Contributed to a department wide migration of an Agile based SLA ticketing workflow utilizing kanban boards, gannt charting system, and sharedcalendars. (Help Desk, DevOps, Developers, Project Managers, and
+- Contributed to a department wide migration of an Agile based SLA ticketing workflow utilizing kanban boards, gannt charting system, and shared calendars. (Help Desk, DevOps, Developers, Project Managers, and
 Leadership Team)
 - Experience working with Large-Scale video production crews / broadcasting trucks.
 - Provided expert level consultations on media services for content management (CMS) and live-streaming re-broadcasts (RTMP servers) on pay-per-view live streaming platform which reaches over 10,000+ subscribers. 
@@ -131,22 +131,12 @@ Automation & Electronics Technician
 </figure>
 
 <figure>
-  <img src="assets/ss3.jpg" alt="Image description">
+  <img src="assets/ss3.JPG" alt="Image description">
   <figcaption>This is the image caption.</figcaption>
 </figure>
 
 <figure>
   <img src="assets/ss4.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
-</figure>
-
-<figure>
-  <img src="assets/ss5.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
-</figure>
-
-<figure>
-  <img src="assets/ss6.jpg" alt="Image description">
   <figcaption>This is the image caption.</figcaption>
 </figure>
 
@@ -156,7 +146,11 @@ Assistant Production Manager (Lighting)
 
 <figure>
   <img src="assets/cruise1.jpg" alt="Cunard Lights">
-  <figcaption>Cunard Annivaersary Light Show.</figcaption>
+  <figcaption>Cunard 175 Anniversary Light Show.</figcaption>
+</figure>
+<figure>
+  <img src="assets/cruise2.jpg" alt="Cunard Lights">
+  <figcaption>Behind the Scenes of 175 Anniversary Light Show.</figcaption>
 </figure>
 
 <figure>
@@ -174,8 +168,13 @@ Apprentice Audio-Visual Technician
 (December 2012 - December 2013)
 
 <figure>
-  <img src="assets/rcl1.jpg" alt="FBC Plant City">
-  <figcaption>While working with Paragon 360, I was able to assist the team in installing an all new AVL system in this new 2000 seat facility. This included a dual-projection unit and LED lighting. </figcaption>
+  <img src="assets/rcl1.jpg" alt="Royal Caribbean Cruises">
+  <figcaption></figcaption>
+</figure>
+
+<figure>
+  <img src="assets/rcl2.jpg" alt="Royal Caribbean Cruises">
+  <figcaption></figcaption>
 </figure>
 
 ### North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
