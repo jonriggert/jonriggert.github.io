@@ -28,6 +28,8 @@ Columbus McKinnon - Entertainment Technology Motor Mechanic Training
 
 ETC - Eos Family Consoles Training
 
+Allen & Heath - iLive Digital Audio Training
+
 ## Currently Learning
 
 PMI - Project Management Professional Certification
@@ -238,7 +240,7 @@ Audio
 
 <figure>
   <img src="assets/tc1.jpg" alt="Image description">
-  <figcaption>This is the image caption.</figcaption>
+  <figcaption>Running Audio for Multi-Site Church using QSYS and x32 Audio Consoles.</figcaption>
 </figure>
 
 ### Relevant Life Church - Grew to become Life.Church Campus - Springfield Missouri
