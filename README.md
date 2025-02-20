@@ -34,9 +34,11 @@ Allen & Heath - iLive Digital Audio Training
 
 PMI - Project Management Professional Certification
 
-AWS - Cloud Practitioner Certification
+AZ-104 - Microsoft Azure Administrator Certification
 
 LPI - Linux Essentials Certification
+
+Google - IT Automation with Python Professional Certification
 
 ## Experience
 
