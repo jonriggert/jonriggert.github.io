@@ -156,17 +156,17 @@ Assistant Production Manager (Lighting)
   <figcaption>Cunard 175 Anniversary Light Show in New York and Southampton UK.</figcaption>
 </figure>
 <figure>
-  <img src="assets/cruise4.jpg" alt="Cunard">
+  <img src="assets/cruise2.jpg" alt="Cunard">
   <figcaption>Behind the Scenes of 175 Anniversary Light Show on mid-deck using Clay Paky Mythos lighting.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/cruise2.jpg" alt="Carnival UK">
+  <img src="assets/cruise3.jpg" alt="Carnival UK">
   <figcaption>Programming lights for music show on Carnival Cruise Ship.</figcaption>
 </figure>
 
 <figure>
-  <img src="assets/cruise3.jpg" alt="Carnival UK">
+  <img src="assets/cruise4.jpg" alt="Carnival UK">
   <figcaption>Running lights for music show on Carnival Cruise Ship.</figcaption>
 </figure>
 
@@ -274,4 +274,4 @@ Lighting Volunteer / Consultant for Worship Team
 ### Pregnancy Life Line - Branson West Missouri
 Board Member - AVIT Consultant
 
-#### Thank you for visiting my profile! I created this website using Git and GitHub pages. 
+#### Thank you for visiting my profile! Loved learning how to create this website using vsCode, Git, and GitHub pages. 
