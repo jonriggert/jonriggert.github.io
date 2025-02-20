@@ -276,4 +276,4 @@ Lighting Volunteer / Consultant for Worship Team
 ### Pregnancy Life Line - Branson West Missouri
 Board Member - AVIT Consultant
 
-#### Thank you for visiting my profile! Loved learning how to create this website using vsCode, Git, and GitHub pages. 
+#### Thank you for visiting my profile! I enjoyed learning how to create this website using vsCode, Git, and GitHub pages. 
