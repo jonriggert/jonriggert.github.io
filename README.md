@@ -102,7 +102,7 @@ Audio Visual Engineer
 
 <figure>
   <img src="assets/motb3.jpg" alt="Museum of the Bible">
-  <figcaption>Accoustic Mapping for Meyer Constellation Audio in main theatre at Museum of the Bible.</figcaption>
+  <figcaption>Acoustic Mapping for Meyer Constellation Audio in main theatre at Museum of the Bible.</figcaption>
 </figure>
 
 <figure>
