@@ -274,6 +274,24 @@ Lighting Volunteer / Consultant for Worship Team
 </figure>
 
 ### Pregnancy Life Line - Branson West Missouri
-Board Member - AVIT Consultant
+Advisory Board Member - AVIT Consultant
+
+### Ozark Mountain Legacy
+Web / Media / Streaming / Live Event Consultant
+
+## Personality
+
+### Myers Briggs
+INTJ - The Architect
+
+### DiSC
+Type C - Conscientious and Even-Tempered
+
+### Strengths Finder
+1. Connectedness
+2. Discipline
+3. Consistency
+4. Harmony
+5. Intellection
 
 #### Thank you for visiting my profile! I enjoyed learning how to create this website using vsCode, Git, and GitHub pages. 
