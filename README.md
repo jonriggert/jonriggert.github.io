@@ -58,30 +58,20 @@ Google - IT Automation with Python Professional Certification
 
 Information Technology Operations Supervisor
 (May 2023 - Present)
-- Create, manage, and maintain a comprehensive technology budget including capital and operational expenses (hardware, software, cloud, labor, etc.).
-- Provide company-wide training in technical areas, as well as representing the department to leadership and outside vendors. 
-- Coach, develop, and oversee team in areas of personal responsibility and accountability, instilling a passion for customer service and maintaining focus against technical goals. 
-- Researching, deploying, and maintaining excellent SLAs (Service Level Agreements) toward project planning, change management, employee scheduling, and service desk processes. 
-- Implement project management methodologies and tools to improve productivity flow (agile, service management, kanban, gannt chart, SharePoint). 
-- Cultivating a culture of trust by leading from a posture of calmness, consistency, and the pursuit of clarity. 
-- Mitigate potential security risks and technical outages to provide high-availability resources to our employees and customers.
+- Managed a $500k technology budget, optimizing costs across hardware, software, cloud services, and labor.
+- Led and mentored an IT team, fostering accountability, customer service focus, and technical growth.
+- Improved service delivery by implementing structured project management methodologies, enhancing efficiency in change management, employee scheduling, and help desk operations.
+- Drove security initiatives, proactively mitigating risks and ensuring high-availability IT infrastructure.
+- Represented IT in leadership discussions and external vendor negotiations, ensuring alignment between business and technical goals.
 
 System Administrator
 (June 2018 - May 2023)
-- Maintain, monitor and troubleshoot network-based services such as file, identity (Active-Directory, Entra ID), domain (DNS) and print management servers.
-- Administer & License Microsoft 365 Products for a multi-campus organization with 1000+ employees. (Exchange, Teams, SharePoint, Office, Windows Enterprise)
-- Deployed a multi-campus Microsoft Teams based phone system including conference rooms.
-- Configure and maintain Microsoft Azure based services. (Azure Active Directory, Virtual Machines/Networks, Ect.)
-- Configure and maintain DHCP, Group Policy, and VPN Appliances.
-- Acquired knowledge of Cisco (Meraki) & VMware for administering HPE (Nimble) and Dell EMC Server Hardware. 
-- Image and Deploy Windows, Mac, and iOS software using modern means. (Microsoft Intune / Auto-Pilot)
-- Developed a company-wide workflow and training program for communicating how to best utilize internal HRIS systems. (Microsoft Single Sign-On & Multi-Factor Authentication, UKG, Teams, Ect.)
-- Contributed to a department wide migration of an Agile based SLA ticketing workflow utilizing kanban boards, gannt charting system, and shared calendars. (Help Desk, DevOps, Developers, Project Managers, and
-Leadership Team)
-- Experience working with Large-Scale video production crews / broadcasting trucks.
-- Provided expert level consultations on media services for content management (CMS) and live-streaming re-broadcasts (RTMP servers) on pay-per-view live streaming platform which reaches over 10,000+ subscribers. 
-- Install, deploy, and maintain end-to-end IP-based security surveillance system with over 100 cameras and 2 years of recording footage. 
-- Experience performing various hardware & electronic repairs on laptop & desktop workstations. (Dell, HP, Apple)
+- Administered Microsoft 365 & Azure services for a multi-campus organization with 1,000+ employees.
+- Led deployment of a Microsoft Teams-based phone system, improving communication across multiple locations.
+- Automated IT processes using Intune & Auto-Pilot, streamlining device provisioning and reducing setup time.
+- Enhanced security posture by managing DNS, DHCP, VPN appliances, and Azure Active Directory policies.
+- Contributed to an organization-wide shift to Agile workflows, optimizing service desk and project collaboration.
+- Designed and implemented a multi-site IP security camera system with 100+ cameras and two years of archival storage.
 
 ### Paragon 360 - Springfield Missouri
 Audio-Visual Installer
