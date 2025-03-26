@@ -1,10 +1,12 @@
 # IT & Cloud Systems | AV & Enterprise Infrastructure | Automation
 
-I started my career in high-pressure live production and AV environments, where reliability and real-time problem-solving were non-negotiable. Over the years, I expanded into IT operations, cloud infrastructure, and automation, bridging the gap between enterprise technology, AV systems, and modern cloud solutions.
+I didn’t take the traditional IT path—I built my career from the ground up, starting in high-pressure live production environments before expanding into IT operations, cloud infrastructure, and automation.
 
-Today, as an IT Operations Supervisor, I oversee infrastructure, security, automation, and enterprise technology strategy. I thrive in roles where I can optimize systems, reduce downtime, and implement cloud-driven solutions that improve efficiency across organizations.
+That hands-on experience shaped how I approach technology today. I specialize in bridging the gap between enterprise IT, AV systems, and modern cloud solutions—optimizing technology for large-scale organizations while leading teams, managing infrastructure, and driving automation.
 
-Core Strengths:
+Currently, as an IT Operations Supervisor, I oversee enterprise infrastructure, security, automation, and strategic technology planning. I thrive in environments where I can streamline systems, reduce downtime, and implement cloud-driven solutions that create real impact.
+
+Key Strengths:
 
 ✔ IT & Cloud Infrastructure (Azure, AWS, Microsoft 365)
 
