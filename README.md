@@ -58,7 +58,7 @@ Google - IT Automation with Python Professional Certification
 
 Information Technology Operations Supervisor
 (May 2023 - Present)
-- Managed a $500k technology budget, optimizing costs across hardware, software, cloud services, and labor.
+- Managed a $500k of a multi-million dollar technology budget, optimizing costs across hardware, software, cloud services, and labor.
 - Led and mentored an IT team, fostering accountability, customer service focus, and technical growth.
 - Improved service delivery by implementing structured project management methodologies, enhancing efficiency in change management, employee scheduling, and help desk operations.
 - Drove security initiatives, proactively mitigating risks and ensuring high-availability IT infrastructure.
