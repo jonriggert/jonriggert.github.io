@@ -16,7 +16,7 @@ Key Strengths:
 
 ✔ Leadership, Training & Project Management (Agile, Budgeting, Vendor Relations)
 
-I know what it means to adapt, learn, and push forward in a constantly changing tech landscape. I’m excited about opportunities in IT leadership, cloud engineering, or enterprise infrastructure, where I can combine my technical expertise with problem-solving leadership.
+
 
 ---
 
@@ -63,6 +63,8 @@ Information Technology Operations Supervisor
 - Improved service delivery by implementing structured project management methodologies, enhancing efficiency in change management, employee scheduling, and help desk operations.
 - Drove security initiatives, proactively mitigating risks and ensuring high-availability IT infrastructure.
 - Represented IT in leadership discussions and external vendor negotiations, ensuring alignment between business and technical goals.
+- Collaborated with cross-functional teams to align IT solutions with business needs.
+- Managed resource allocation, ensuring the team met deadlines while staying within budget.
 
 System Administrator
 (June 2018 - May 2023)
