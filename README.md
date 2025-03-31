@@ -1,4 +1,4 @@
-# IT & Cloud Systems | AV & Enterprise Infrastructure | Automation
+# IT Operations Leadership & Project Management | System Administration | Cloud Infrastructure & Automation
 
 I didn’t take the traditional IT path—I built my career from the ground up, starting in high-pressure live production environments before expanding into IT operations, cloud infrastructure, and automation.
 
