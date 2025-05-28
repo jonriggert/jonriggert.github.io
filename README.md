@@ -58,13 +58,17 @@ Google - IT Automation with Python Professional Certification
 
 Information Technology Operations Supervisor
 (May 2023 - Present)
-- Managed $500k of a multi-million dollar technology budget, optimizing costs across hardware, software, cloud services, and labor.
-- Led and mentored an IT team, fostering accountability, customer service focus, and technical growth.
-- Improved service delivery by implementing structured project management methodologies, enhancing efficiency in change management, employee scheduling, and help desk operations.
-- Drove security initiatives, proactively mitigating risks and ensuring high-availability IT infrastructure.
-- Represented IT in leadership discussions and external vendor negotiations, ensuring alignment between business and technical goals.
-- Collaborated with cross-functional teams to align IT solutions with business needs.
-- Managed resource allocation, ensuring the team met deadlines while staying within budget.
+Led operations for a multi-campus 329,000 sq ft performing arts facility with a $500,000 annual IT budget and a 20-person hybrid team, reporting to a larger remote IT leadership structure.
+
+Managed and completed major capital projects including:
+- Multi-site IP security camera and access control system overhaul (200+ cameras, 2-year archival system).
+- Onsite server and cloud infrastructure modernization.
+- Deployment of a digital concession menu board & conference room AV. 
+- Establishment of a fully staffed, on-site phone-based ticket contact center.
+- Drove the adoption of Agile methodologies to improve help desk workflows, change management, and cross-team collaboration.
+- Regularly conducted 1:1s and annual reviews, integrating SMART goals and KPIs to guide technician performance and seasonal staffing decisions.
+- Created, revised, and enforced SOPs, SLAs, and escalation protocols to improve service reliability and professionalize team communication.
+- Negotiated vendor contracts and procurement agreements for hardware, software, and managed services.
 
 System Administrator
 (June 2018 - May 2023)
@@ -91,8 +95,17 @@ Live Event Technician
 ### Museum of the Bible - Washington D.C.
 Audio Visual Engineer
 (July 2017 - November 2017) 
-- Served organization as the technical liaison between leadership (owners & stakeholders) and contractors (design & construction) during the Audio-Visual installation phase of a $500,000,000 (1st ever billion dollar startup) construction project; building of one of the most technically advanced museums in the world. 
-- This project included documentation and alignment of AVIT systems across 12 different contracted projects happening simultaneously. Systems include networking, servers, building-automation, security, meeting-room technology, digital signage, audio, projection, and lighting (for exhibits, facilities, and special event venues).
+As the AV and Lighting Engineer for a $1 billion museum startup located near the U.S. Capitol and Smithsonian Museums, I was responsible for the final-phase integration of advanced audiovisual, lighting, and digital interactive systems across 12 theatrical and exhibit venues. The museum aimed to be the most technologically advanced in the world, incorporating:
+
+- A 100-foot LED ceiling screen, GPS-controlled docent tablets, dynamic lobby signage.
+- Elevator AV systems, projection mapping in immersive environments.
+- Layered lighting infrastructure: theatrical, architectural, exhibit-specific, and temporary.
+- Led technical coordination across 7 independent AV contractors, ensuring all systems could be monitored and automated through a unified control interface.
+- Balanced uniformity of system control with creative freedom, as each exhibit floor had unique architectural and functional needs.
+- Designed infrastructure not just for current installations but for future-proofing temporary exhibits, including high-capacity networking, flexible power layouts, and scalable lighting/data solutions.
+- Facilitated cross-discipline communication between exhibit designers, lighting designers, IT, and museum leadership to ensure AV/lighting aligned with both aesthetic and operational goals.
+- Successfully opened the museum on schedule with fully integrated AV and lighting systems across all spaces.
+- Helped establish the foundation for ongoing tech operations and infrastructure scaling for future exhibits.
 
 <figure>
   <img src="assets/motb1.jpg" alt="Museum of the Bible">
@@ -193,7 +206,13 @@ Apprentice Audio-Visual Technician
 ### North Point Church - Springfield Missouri / Nixa Missouri / Republic Missouri
 Intern Media Director
 (May 2009 - December 2012)
-- Coordinated and organized a scheduling system & training for multi-site (3 locations) church's Audio-Visual 60+ volunteers across 12 weekly events and services.
+At North Point Church, I led the audiovisual planning and execution for the expansion of two satellite campuses, while also standardizing and supporting AV operations across a three-campus system. This project included full system design, programming, installation, and volunteer coordination to ensure technical consistency and operational reliability across all 3 locations - with 12 services total each weekend. Oversaw end-to-end design and installation of AVL systems for new campuses, including:
+
+- Yamaha digital audio consoles, HOG lighting control systems, Panasonic IMAG camera and switching systems.
+- Coordinated installation timelines, contractor oversight, and infrastructure planning to ensure AV systems were aligned with buildout phases.
+- Implemented a scheduling system and training pipeline for a team of 60+ volunteers supporting 12 weekly services/events across three campuses.
+- Developed system documentation, live production workflows, and volunteer support protocols to maintain consistent production standards church-wide.
+- Provided live service support and technical troubleshooting during launch and post-deployment phases.
 
 <figure>
   <img src="assets/npc1.jpg" alt="North Point Church">
