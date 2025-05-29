@@ -20,7 +20,7 @@ Key Strengths:
 
 ---
 
-![Certification Badges](/assets/Badges.png)
+![Certification Badges](/assets/badges.jpg)
 
 ## Certifications
 
