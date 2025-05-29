@@ -48,9 +48,15 @@ PMI - Project Management Professional Certification
 
 AZ-104 - Microsoft Azure Administrator Certification
 
+SAA-C03 - AWS Solutions Architect Associate Certification
+
 LPI - Linux Essentials Certification
 
 Google - IT Automation with Python Professional Certification
+
+GitHub Foundations - Certification Program
+
+DataCamp SQL Associate Certification
 
 ## Experience
 
