@@ -60,10 +60,10 @@ DataCamp SQL Associate Certification
 
 ## Projects
 
-### <a href="link">Journey to the Clouds</a>
+### <a href=https://github.com/jonriggert/journey-to-the-clouds>Journey to the Clouds</a>
 
 <figure>
-  <a href="link"><img src="assets/Journey_to_the_Clouds.png" alt="Journey to the Clouds"></a>
+  <a href=https://github.com/jonriggert/journey-to-the-clouds><img src="assets/Journey_to_the_Clouds.png" alt="Journey to the Clouds"></a>
   <figcaption>My GitHub repo where I document my learning journey toward AWS and Azure speciality roles - learning Infrastrucutre as Code and Automation. My code is stored here as I learn it, as well as notes and documentation - and my daily journal of what I've learned! </figcaption>
 </figure>
 
