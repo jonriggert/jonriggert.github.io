@@ -2,8 +2,6 @@
 title: "Why I Solve Behind-the-Scenes Problems"
 date: 2025-06-25
 layout: single
-categories: [mindset]
-tags: [leadership, clarity, career]
 ---
 
 I didn’t take the traditional IT path. I built my career solving weird, behind-the-scenes problems others overlook—because I actually enjoy it.
