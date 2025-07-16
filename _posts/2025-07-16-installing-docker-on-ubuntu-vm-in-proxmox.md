@@ -70,3 +70,19 @@ Success! Docker printed the welcome message. Internet access and DNS also worked
 
 Snapshot Saved
 Before moving forward, I took a Proxmox snapshot of the working Docker VM so I can reuse it later.
+
+### Why I Chose q35 Over i440fx
+
+When creating my Docker host VM in Proxmox, I selected q35 as the machine type. Here's why:
+
+Modern chipset: q35 emulates newer PCI Express-based hardware, which better matches what you'd find in cloud providers and enterprise systems.
+
+UEFI + QEMU Agent compatibility: I enabled UEFI boot and QEMU guest tools — both are fully supported by q35.
+
+NVMe & VirtIO drivers: These work cleanly with q35, which models PCIe properly.
+
+Future-proofing: Most newer Linux distros (Ubuntu 20.04+, Debian 11+, etc.) expect a modern virtual hardware layout.
+
+Although i440fx is a simpler and more universally compatible option, it’s primarily helpful when installing older operating systems (e.g., Windows XP, legacy Linux).
+
+For my modern, container-based lab environment, q35 made the most sense — and so far, it’s been 100% stable.
