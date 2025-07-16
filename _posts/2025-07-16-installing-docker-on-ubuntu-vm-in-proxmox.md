@@ -1,5 +1,5 @@
 ---
-title: "Ticket #001: Docker on LXC... Then Pivoting to a VM"
+title: "Docker on LXC... Then Pivoting to a VM"
 date: 2025-07-16
 categories: [lab-notes, docker, proxmox]
 tags: [docker, lxc, proxmox, vm, apparmor, snapshot]
