@@ -18,6 +18,7 @@ I specialise in building the shared platform layer—landing zones, pipelines an
 Recent Highlights:
 • Modernised on-prem + cloud stack for a 329,000 sq ft campus, achieving consistent >99 % uptime.
 • Automated device onboarding with Intune & AutoPilot, freeing technicians for higher-value work.
+• Migrated from VMware to Proxmox hosts, reducing 5-year lifecycle cost by 75% = over $100,000.
 
 Key Strengths:
 • Digital Transformation
@@ -26,20 +27,15 @@ Key Strengths:
 • Cross Functional Leadership
 
 Next Focus:
-• AWS SysOps Admin exam (Oct ‘25) and building Kubernetes expertise toward CKA.
+• AWS Cloud Solutions Architect and SysOps Certification with Project Portfolio
 
 Core Competencies:
 • Cloud Platforms: AWS (EC2, VPC, IAM, S3), Azure (AD, Intune), Entra ID, Microsoft 365
 • Infrastructure as Code & Automation: Terraform, Ansible, PowerShell, GitHub Actions, Bash
-• Containers & CI/CD: Docker, Kubernetes (CKA in progress), Jenkins, GitLab CI
+• Containers & CI/CD: Docker, Kubernetes (CKA in progress), Jenkins, GitLab CI, LXC
 • Systems & Networking: Windows & Linux servers, VMware, DNS, DHCP, VPN, VoIP, IP surveillance
 • Observability & SRE: Prometheus/Grafana, SLO/SLA design, Incident response, DR/BCP
 • Leadership & PM: Agile/Scrum, Budgeting, Vendor management, SOPs & KPIs
-
-Certifications:
-AWS Certified Cloud Practitioner | Microsoft Certified: Azure Fundamentals | CompTIA A+ | CompTIA Network+
-Google IT Support Professional | LPI Linux Essentials | PMP (PMI)
-AWS Certified SysOps Administrator – scheduled Oct 2025
 
 ---
 
@@ -48,7 +44,7 @@ AWS Certified SysOps Administrator – scheduled Oct 2025
 - Linux (LPI Certification) through LearnLinux.tv
 - John Savill's Azure Masterclass v3 & DevOps MasterClass
 - Microsoft Intune.Training Courses on YouTube
-- Azure Administrator Certificate, AWS Cloud Practitioner / Cloud Architech / SysOps
+- Azure Administrator Certificate, AWS Cloud Practitioner / Cloud Architect / SysOps
 - GitHub, Containerization and Virtualization through DataCamp
 - Proxmox Clustering with Docker, Ubuntu Servers, Windows Servers, Veeam Backups with Ceph and TrueNAS
 
