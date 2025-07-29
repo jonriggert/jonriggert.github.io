@@ -7,35 +7,51 @@ author_profile: true
 
 <img src="/assets/images/avatar.jpg" alt="Profile Picture" width="400" />
 
-# Husband | Dad | Hybrid-Cloud & Platform-Ops Engineer who turns toil into code and outages into learning moments.
+# Husband | Dad | IT Operations Management | Microsoft 365 & Infrastructure Administration | Expanding Cloud Skills
 
 ## 🧑🏻‍💻 Bringing 15+ year of technical experience in Electronics, Audio-Visual, System-Cloud Administration, and Project Management. 
 
- I didn’t take the traditional IT path—my career has been built from the ground up on the shoulders of giants - forged in high stakes live production, now designing on-prem Proxmox/AWS/Azure environments and self-service automation that keep 1000+ users productive.
+IT Operations professional with 7+ years managing enterprise Microsoft 365 environments and leading technical teams. I didn't take the traditional IT path—my career has been built from the ground up, forged in high-stakes live production environments, now managing on-premises and cloud infrastructure that keeps 1,000+ users productive.
 
-I specialise in building the shared platform layer—landing zones, pipelines and monitoring—so product and support teams can move faster with less risk. I enjoy solving real, behind-the-scenes problems—especially the weird, overlooked ones that quietly keep everything running and require a little extra creativity. I’m drawn to the issues others don’t notice or don’t have time for. I care deeply about the work, the people it impacts, and the trust that gets built when something broken is restored.
+Core Competencies
+Microsoft 365 Administration: Exchange Online, Teams, SharePoint, OneDrive management
+Intune device management and AutoPilot deployment
+User lifecycle automation and provisioning
 
-Recent Highlights:
-• Modernised on-prem + cloud stack for a 329,000 sq ft campus, achieving consistent >99 % uptime.
-• Automated device onboarding with Intune & AutoPilot, freeing technicians for higher-value work.
-• Migrated from VMware to Proxmox hosts, reducing 5-year lifecycle cost by 75% = over $100,000.
+Identity & Access Management:
+Active Directory and Entra ID administration
+Conditional access policies and MFA implementation
+Security compliance and auditing
 
-Key Strengths:
-• Digital Transformation
-• Platform Architecture (On-Prem and Cloud)
-• Technical Program Management
-• Cross Functional Leadership
+Infrastructure & Networking:
+Windows Server administration
+DNS, DHCP, and VPN management
+Network security and monitoring
+Virtualization (Proxmox, VMware)
 
-Next Focus:
-• AWS Cloud Solutions Architect and SysOps Certification with Project Portfolio
+Automation & Scripting:
+PowerShell scripting for administrative tasks
+Device provisioning workflows
+Basic Git version control
 
-Core Competencies:
-• Cloud Platforms: AWS (EC2, VPC, IAM, S3), Azure (AD, Intune), Entra ID, Microsoft 365
-• Infrastructure as Code & Automation: Terraform, Ansible, PowerShell, GitHub Actions, Bash
-• Containers & CI/CD: Docker, Kubernetes (CKA in progress), Jenkins, GitLab CI, LXC
-• Systems & Networking: Windows & Linux servers, VMware, DNS, DHCP, VPN, VoIP, IP surveillance
-• Observability & SRE: Prometheus/Grafana, SLO/SLA design, Incident response, DR/BCP
-• Leadership & PM: Agile/Scrum, Budgeting, Vendor management, SOPs & KPIs
+Leadership & Operations:
+Budget management ($500K annual responsibility)
+Vendor negotiation and contract management
+Team coordination and SOP development
+Project management and cross-functional collaboration
+
+Growing Skills:
+Azure cloud administration
+Docker containerization
+Linux system administration
+
+
+Key Achievements
+Cost Savings: Achieved $100,000+ infrastructure cost reduction through strategic virtualization migration
+Automation Impact: Reduced manual device configuration time by 80% through Intune/AutoPilot implementation
+Uptime Excellence: Maintained >99% system uptime across 329,000 sq ft multi-campus environment
+Team Leadership: Successfully managed 20-person hybrid technical team supporting 650,000+ annual guests
+Process Improvement: Implemented comprehensive operational frameworks resulting in 15% service delivery cost reduction
 
 ---
 
@@ -44,7 +60,7 @@ Core Competencies:
 - Linux (LPI Certification) through LearnLinux.tv
 - John Savill's Azure Masterclass v3 & DevOps MasterClass
 - Microsoft Intune.Training Courses on YouTube
-- Azure Administrator Certificate, AWS Cloud Practitioner / Cloud Architect / SysOps
+- Azure Administrator Certificate
 - GitHub, Containerization and Virtualization through DataCamp
 - Proxmox Clustering with Docker, Ubuntu Servers, Windows Servers, Veeam Backups with Ceph and TrueNAS
 
@@ -62,19 +78,49 @@ Microsoft Azure (AZ-900) and 365 (MS-900)
 
 ### 👷🏻‍♂️ Employment History 
 
-IT Operations Supervisor at Sight & Sound, Branson Missouri May 2023 — Present 
+Sight & Sound Theatres, Branson Missouri
+June 23-Present
 
-Systems Administrator at Sight & Sound, Branson Missouri June 2018 — May 2023 
+IT Operations Supervisor (Promoted)
+Lead infrastructure modernization and automation initiatives for multi-campus performing arts facilities, managing $500K annual IT budget and 20-person hybrid team supporting 650,000+ annual guests:
+•	Microsoft 365 Migration & Management: Orchestrated enterprise-wide migration to Microsoft 365, implementing automated device provisioning through Intune and AutoPilot, reducing manual setup time by 80%
+•	Teams Platform Implementation: Led full deployment of Microsoft Teams collaboration platform including VoIP phone system, conference rooms, and organization-wide adoption training
+•	Infrastructure Operations: Designed and deployed multi-site IP security camera and access control infrastructure (200+ cameras) with centralized monitoring and data retention policies
+•	Process Improvement: Established comprehensive SOPs, SLAs, and escalation protocols to improve service reliability, implementing KPI-driven performance management frameworks
+•	Cost Optimization: Negotiated and optimized vendor contracts for hardware, software, and managed services, achieving 15% cost reduction while improving service delivery
+•	Virtualization Migration: Migrated from VMware to Proxmox hosts, reducing 5-year lifecycle costs by $100,000+
 
-Audio Visual Engineer at Museum of the Bible, Washington D.C. July 2017 — November 2017 
+Sight & Sound Theatres, Branson Missouri
+June 18-23
 
-Electronics Technician at Sight & Sound, Branson Missouri November 2015 — July 2017 
+System Administrator (Promoted)
+Administered enterprise cloud and hybrid infrastructure supporting 1,000+ users across multiple locations:
+•	Identity & Access Management: Managed Microsoft 365 and Azure AD environments, implementing conditional access policies and automated user provisioning workflows
+•	Exchange & Teams Administration: Deployed and managed Microsoft Teams-based VoIP system, reducing legacy telecommunications costs while improving organizational communication
+•	Endpoint Management: Automated device setup and lifecycle management using Intune, AutoPilot, and Microsoft Endpoint Manager across Windows and Mac environments
+•	Network Infrastructure: Administered core network services including DNS, DHCP, VPN access, and security policies across multi-site environment
+•	Technical Leadership: Provided Tier 2/3 escalated support for complex technical issues spanning AV systems, networking, and cloud services
 
-Production Manager at Royal Carribean & Carnival Cruises, Int December 2012 — October 2015 
+Museum of the Bible, Washington D.C.
+July 17-18
 
-Intern Media Director at North Point Church, Springfield Missouri May 2009 — December 2012 
+Audio Visual Engineer 
+Technical integration lead for $1 billion museum startup, responsible for final-phase implementation of advanced AV, lighting, and digital interactive systems across 12 venues:
+•	Complex Systems Integration: Coordinated technical implementation across 7 independent AV contractors, ensuring unified monitoring and automation through centralized control interfaces
+•	Infrastructure Architecture: Designed future-proof infrastructure including high-capacity networking, flexible power distribution, and scalable lighting/data solutions for dynamic exhibit requirements
+•	Cross-Functional Project Management: Facilitated communication between exhibit designers, lighting designers, IT, and leadership teams to align technical implementation with operational requirements
+•	Project Delivery: Successfully delivered museum opening on schedule with fully integrated AV and lighting systems across all spaces
 
-Assistant Technical Director at Pike Auditorium, Bolivar Missouri September 2008 — December 2012 
+Sight & Sound Theatres, Branson Missouri
+November 15-17
+
+Automation & Electronics Technician 
+Technical specialist responsible for automated systems integration and electrical infrastructure in live production environment:
+•	Production Systems Integration: Designed and implemented automated lighting, audio, and special effects systems for live theatrical productions with zero-tolerance for failure
+•	Electrical Infrastructure: Managed complex electrical distribution systems, ensuring safety compliance and reliability for high-power production equipment
+•	Preventive Maintenance: Developed and executed comprehensive maintenance schedules for production equipment, minimizing downtime during performance seasons
+•	Technical Training: Trained production staff on proper operation and troubleshooting of automated systems and safety protocol
+ 
 
 ### 🎓 Education 
 
