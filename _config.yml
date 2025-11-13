@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Breathe & Bash"
 title_separator          : "|"
-subtitle                 : "Reflections on Leadership in Technology - Strategically Solving Problems that matter — with Calm, Care, and Clarity."
+subtitle                 : "Reflections on Leadership in Technology - Strategically Solving Problems that Matter — with Calm, Care, and Clarity."
 name                     : "Jon Riggert"
 description              : "A blog about solving behind-the-scenes problems across technology, leadership, and project managment. And learning to do it with calm thinking, clear intention, and practical results."
 url                      : "https://www.breatheandbash.com"
