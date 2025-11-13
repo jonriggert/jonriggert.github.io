@@ -128,6 +128,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://www.github.com/jonriggert
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/jonriggert
 
 
 # Reading Files
